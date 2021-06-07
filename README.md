@@ -11,7 +11,7 @@ Estou participando do programa da AfyaLabs, da Afya Educacional, ministrado pela
 HTML, CSS, Bootstrap, PHP, Javascript, Node.JS, MySQL
 
 **Soft Skills**
-Liderança, Proatividade
+Liderança, Proatividade, Criatividade, Planejamento
 
 - [Cursos]
 🌱 - Web Moderno Completo - Udemy
